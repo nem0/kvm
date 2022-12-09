@@ -1,5 +1,7 @@
 # KVM
-Simple, language agnostic virtual machine. Used in [Lumix Engine](https://github.com/nem0/lumixengine_visualscript)
+Simple, language agnostic virtual machine. Used in [Lumix Engine](https://github.com/nem0/lumixengine_visualscript).
+
+This project is in early prorotype stage!
 
 ## Embedding KVM
 
